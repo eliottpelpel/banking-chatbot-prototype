@@ -1,9 +1,8 @@
 """Orchestration: route -> model -> tool calls -> (pause for consent) -> results -> answer.
 
-The supervisor is deterministic Python, never a model. Agents do not talk to each
+The supervisor is deterministic Python. Agents do not talk to each
 other: one of them *requests* a handoff, and this layer performs it. Every control
-decision -- authentication, agent scope, banking policy, consent -- lives here or
-in `tools.py`, and none of it lives in a prompt.
+decision lives here or in `tools.py`, and none of it lives in a prompt.
 """
 import json
 import re

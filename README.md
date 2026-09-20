@@ -98,5 +98,3 @@ The tests cover all of this without calling a model, so they can block CI.
   the advisor fallback rate. That last one is the KPI that matters.
 - **Evaluation**: a frozen business test set replayed whenever the prompt or the
   model changes.
-
-There is a longer write up in [WALKTHROUGH.md](WALKTHROUGH.md).
