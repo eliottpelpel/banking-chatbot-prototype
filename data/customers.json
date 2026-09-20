@@ -1,0 +1,103 @@
+{
+  "C001": {
+    "customer_id": "C001",
+    "name": "Camille Dubois",
+    "segment": "Retail - Clientele privilege",
+    "agency": "BNP Paribas Paris Opera",
+    "advisor_id": "A17",
+    "accounts": [
+      {
+        "account_id": "ACC-C001-1",
+        "type": "Compte de cheques",
+        "iban": "FR7630004000031234567890143",
+        "balance_eur": 2847.32,
+        "authorized_overdraft_eur": 1500.0
+      },
+      {
+        "account_id": "ACC-C001-2",
+        "type": "Livret A",
+        "iban": "FR7630004000031234567890251",
+        "balance_eur": 11400.0,
+        "authorized_overdraft_eur": 0.0
+      }
+    ],
+    "cards": [
+      {
+        "card_id": "CB-4417",
+        "label": "Visa Premier",
+        "last4": "4417",
+        "status": "active",
+        "monthly_payment_limit_eur": 3000.0,
+        "monthly_spent_eur": 1240.5,
+        "weekly_withdrawal_limit_eur": 1000.0,
+        "expires": "11/2028"
+      }
+    ],
+    "credits": [
+      {
+        "credit_id": "CR-2019-88",
+        "type": "Credit immobilier",
+        "initial_amount_eur": 210000.0,
+        "outstanding_eur": 148320.55,
+        "monthly_payment_eur": 964.2,
+        "rate_pct": 1.35,
+        "remaining_months": 165,
+        "end_date": "2041-06-05"
+      }
+    ],
+    "transfer_daily_limit_eur": 5000.0,
+    "transferred_today_eur": 0.0,
+    "beneficiaries": [
+      { "name": "Lucas Dubois", "iban": "FR7630006000011234567890189", "bank": "BNP Paribas" },
+      { "name": "EDF", "iban": "FR7610096000301234567890124", "bank": "CIC" },
+      { "name": "Agence Bertrand Immobilier", "iban": "FR7630003000201234567890167", "bank": "Societe Generale" }
+    ],
+    "risk_flags": { "fragile_client": false, "unpaid_incidents_12m": 0 }
+  },
+  "C002": {
+    "customer_id": "C002",
+    "name": "Yanis Lefevre",
+    "segment": "Retail - Jeune actif",
+    "agency": "BNP Paribas Lyon Part-Dieu",
+    "advisor_id": "A42",
+    "accounts": [
+      {
+        "account_id": "ACC-C002-1",
+        "type": "Compte de cheques",
+        "iban": "FR7630004000031111222233344",
+        "balance_eur": 412.87,
+        "authorized_overdraft_eur": 500.0
+      }
+    ],
+    "cards": [
+      {
+        "card_id": "CB-9021",
+        "label": "Visa Classic",
+        "last4": "9021",
+        "status": "blocked",
+        "monthly_payment_limit_eur": 1500.0,
+        "monthly_spent_eur": 980.0,
+        "weekly_withdrawal_limit_eur": 500.0,
+        "expires": "03/2027"
+      }
+    ],
+    "credits": [
+      {
+        "credit_id": "CR-2024-31",
+        "type": "Pret personnel",
+        "initial_amount_eur": 12000.0,
+        "outstanding_eur": 7154.9,
+        "monthly_payment_eur": 278.1,
+        "rate_pct": 5.4,
+        "remaining_months": 26,
+        "end_date": "2028-02-10"
+      }
+    ],
+    "transfer_daily_limit_eur": 2000.0,
+    "transferred_today_eur": 0.0,
+    "beneficiaries": [
+      { "name": "Marie Lefevre", "iban": "FR7630004000039876543210122", "bank": "BNP Paribas" }
+    ],
+    "risk_flags": { "fragile_client": false, "unpaid_incidents_12m": 1 }
+  }
+}

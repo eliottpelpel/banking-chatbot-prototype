@@ -1,0 +1,2 @@
+mistralai>=1.0
+streamlit>=1.35

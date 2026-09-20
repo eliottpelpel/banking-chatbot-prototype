@@ -1,0 +1,37 @@
+[
+  {
+    "id": "CUS-C001-01",
+    "customer_id": "C001",
+    "title": "Votre contrat de credit immobilier CR-2019-88",
+    "tags": ["credit", "immobilier", "contrat", "pret", "remboursement", "anticipe"],
+    "text": "Votre credit immobilier CR-2019-88 a ete souscrit le 05/06/2019 pour 210 000 EUR sur 22 ans au taux fixe de 1,35%. Mensualite de 964,20 EUR prelevee le 5 de chaque mois. Le remboursement anticipe partiel est autorise une fois par an sans penalite pour un montant minimum de 5 000 EUR. Une modulation de mensualite de plus ou moins 20% est possible apres 24 mensualites payees."
+  },
+  {
+    "id": "CUS-C001-02",
+    "customer_id": "C001",
+    "title": "Votre assurance moyens de paiement",
+    "tags": ["assurance", "carte", "moyens de paiement", "fraude", "garantie"],
+    "text": "Votre contrat Securite Moyens de Paiement (souscrit le 12/03/2021) couvre l'utilisation frauduleuse de votre carte avant et apres blocage, a hauteur de 3 000 EUR par an, ainsi que le vol d'especes dans les 48h suivant un retrait, a hauteur de 500 EUR. La franchise est de 0 EUR en cas d'opposition immediate."
+  },
+  {
+    "id": "CUS-C001-03",
+    "customer_id": "C001",
+    "title": "Votre PER individuel",
+    "tags": ["per", "retraite", "epargne", "versement", "fiscalite"],
+    "text": "Votre PER Individuel ouvert le 18/01/2023 presente un encours de 14 260 EUR au 31/08/2026, investi sur le profil Equilibre (50% fonds euro, 50% unites de compte). Vos versements programmes sont de 150 EUR par mois. Le plafond de deduction non utilise reporte des trois annees precedentes s'eleve a 18 400 EUR."
+  },
+  {
+    "id": "CUS-C002-01",
+    "customer_id": "C002",
+    "title": "Votre pret personnel CR-2024-31",
+    "tags": ["credit", "pret personnel", "conso", "contrat", "remboursement"],
+    "text": "Votre pret personnel CR-2024-31 a ete souscrit le 14/02/2024 pour 12 000 EUR sur 48 mois au taux fixe de 5,40% TAEG. Mensualite de 278,10 EUR prelevee le 10 de chaque mois. Le remboursement anticipe total est possible a tout moment ; une indemnite de 0,5% du capital restant du s'applique si la duree restante depasse 12 mois."
+  },
+  {
+    "id": "CUS-C002-02",
+    "customer_id": "C002",
+    "title": "Votre offre jeune actif",
+    "tags": ["offre", "jeune", "tarif", "carte", "avantage"],
+    "text": "Vous beneficiez de l'offre Jeune Actif jusqu'au 31/12/2027 : cotisation carte Visa Classic offerte, decouvert autorise de 500 EUR sans agios les 15 premiers jours de chaque mois, et frais de tenue de compte gratuits. Au-dela de cette date, la tarification standard du reseau s'applique."
+  }
+]

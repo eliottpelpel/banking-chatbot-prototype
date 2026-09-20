@@ -1,0 +1,74 @@
+[
+  {
+    "id": "PUB-001",
+    "title": "Horaires d'ouverture des agences",
+    "tags": ["horaires", "opening", "hours", "agence", "agency", "ouverture", "samedi", "dimanche"],
+    "text": "Les agences BNP Paribas du reseau Retail sont ouvertes du mardi au vendredi de 9h00 a 12h30 et de 13h30 a 17h30, et le samedi de 9h00 a 12h30. Elles sont fermees le dimanche et le lundi. L'agence Paris Opera (75002) est ouverte en continu du mardi au vendredi de 9h00 a 18h00. Les automates (DAB) sont accessibles 24h/24."
+  },
+  {
+    "id": "PUB-002",
+    "title": "Taux des credits immobiliers - bareme standard",
+    "tags": ["taux", "rate", "credit", "immobilier", "mortgage", "pret", "emprunt"],
+    "text": "Bareme standard au 01/09/2026 pour un credit immobilier a taux fixe, hors assurance et hors negociation commerciale : 15 ans 3,15% TAEG, 20 ans 3,35% TAEG, 25 ans 3,55% TAEG. L'assurance emprunteur represente en moyenne 0,34% du capital emprunte par an. Le taux d'usure applicable est publie chaque trimestre par la Banque de France."
+  },
+  {
+    "id": "PUB-003",
+    "title": "Taux des credits a la consommation",
+    "tags": ["taux", "credit", "consommation", "conso", "pret personnel", "auto"],
+    "text": "Pret personnel BNP Paribas : de 4,90% a 7,20% TAEG fixe selon le montant, la duree et le profil, pour des montants de 3 000 EUR a 75 000 EUR sur 12 a 84 mois. Le pret auto demarre a 4,50% TAEG. Un delai legal de retractation de 14 jours calendaires s'applique a tout credit a la consommation."
+  },
+  {
+    "id": "PUB-004",
+    "title": "Plan d'epargne retraite (PER)",
+    "tags": ["retraite", "retirement", "per", "epargne", "pension", "fiscalite"],
+    "text": "Le PER Individuel BNP Paribas permet de deduire les versements du revenu imposable dans la limite de 10% des revenus professionnels (plafond 2026 : 37 094 EUR). Versement initial minimum 300 EUR, versements programmes a partir de 50 EUR par mois. Les frais de versement sont de 2,50% maximum et les frais de gestion de 0,70% par an sur les unites de compte. La sortie est possible en capital, en rente, ou de maniere anticipee pour l'achat de la residence principale."
+  },
+  {
+    "id": "PUB-005",
+    "title": "Livret A et epargne reglementee",
+    "tags": ["livret a", "epargne", "savings", "ldds", "taux", "plafond"],
+    "text": "Le Livret A est remunere a 1,70% net d'impot et de prelevements sociaux depuis le 01/08/2025, avec un plafond de versement de 22 950 EUR. Le LDDS est remunere au meme taux avec un plafond de 12 000 EUR. Les fonds sont disponibles a tout moment et les interets sont calcules par quinzaine."
+  },
+  {
+    "id": "PUB-006",
+    "title": "Cartes bancaires - gamme et tarifs",
+    "tags": ["carte", "card", "visa", "tarif", "cotisation", "plafond"],
+    "text": "Gamme carte : Visa Classic 47,50 EUR par an, Visa Premier 141 EUR par an, Visa Infinite 330 EUR par an. Les plafonds standard de paiement sont de 1 500 EUR sur 30 jours glissants pour la Visa Classic, 3 000 EUR pour la Visa Premier et 8 000 EUR pour la Visa Infinite. Ces plafonds sont modifiables depuis l'application ou avec votre conseiller."
+  },
+  {
+    "id": "PUB-007",
+    "title": "Carte perdue ou volee - procedure",
+    "tags": ["perte", "vol", "carte", "opposition", "bloquer", "block", "fraude"],
+    "text": "En cas de perte ou de vol, la carte doit etre bloquee immediatement. Le blocage temporaire est reversible et peut etre effectue depuis l'application, l'assistant ou le 3477. La mise en opposition definitive est irreversible et declenche la fabrication d'une nouvelle carte sous 5 jours ouvres. Le service d'opposition est joignable 24h/24 au 0 800 800 121."
+  },
+  {
+    "id": "PUB-008",
+    "title": "Virements - delais et plafonds standard",
+    "tags": ["virement", "transfer", "sepa", "delai", "plafond", "instantane"],
+    "text": "Un virement SEPA standard est execute en 1 jour ouvre. Le virement SEPA instantane est credite en moins de 10 secondes, 24h/24, pour un montant maximum de 15 000 EUR par operation. Le plafond de virement par defaut est de 5 000 EUR par jour pour un compte particulier et peut etre modifie avec votre conseiller. L'ajout d'un nouveau beneficiaire necessite une validation forte et un delai de securite de 24 heures."
+  },
+  {
+    "id": "PUB-009",
+    "title": "Frais bancaires courants",
+    "tags": ["frais", "fees", "commission", "incident", "decouvert", "agios"],
+    "text": "Commission d'intervention : 8 EUR par operation, plafonnee a 80 EUR par mois. Frais de rejet de prelevement : 20 EUR. Taux du decouvert autorise : 16,50% par an. Retrait dans un distributeur hors reseau en zone euro : 1 EUR a partir du 4eme retrait du mois. Les clients en situation de fragilite financiere beneficient d'un plafonnement specifique a 25 EUR par mois."
+  },
+  {
+    "id": "PUB-010",
+    "title": "Contacts et service client",
+    "tags": ["contact", "telephone", "conseiller", "service client", "urgence"],
+    "text": "Service client particuliers : 3477 (service gratuit + prix appel), du lundi au vendredi de 8h00 a 20h00 et le samedi de 9h00 a 17h00. Opposition carte 24h/24 : 0 800 800 121. Assistance internationale : +33 1 57 08 22 00. La messagerie securisee de l'application Mes Comptes garantit une reponse sous 48 heures ouvrees."
+  },
+  {
+    "id": "PUB-011",
+    "title": "Assurance habitation et auto",
+    "tags": ["assurance", "habitation", "auto", "insurance", "sinistre"],
+    "text": "L'assurance habitation BNP Paribas demarre a 12 EUR par mois pour un studio et couvre le vol, le degat des eaux et l'incendie. L'assurance auto au tiers demarre a 28 EUR par mois. Toute declaration de sinistre doit etre faite dans les 5 jours ouvres, ou 2 jours ouvres en cas de vol."
+  },
+  {
+    "id": "PUB-012",
+    "title": "Ouverture de compte et documents",
+    "tags": ["ouverture", "compte", "documents", "justificatif", "kyc", "identite"],
+    "text": "L'ouverture d'un compte courant necessite une piece d'identite en cours de validite, un justificatif de domicile de moins de 3 mois et un specimen de signature. Le dossier est valide sous 48 heures ouvrees apres verification. Une offre bancaire de base est accessible de droit a toute personne residant en France via la procedure de droit au compte de la Banque de France."
+  }
+]

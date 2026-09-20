@@ -1,0 +1,28 @@
+{
+  "A17": {
+    "advisor_id": "A17",
+    "name": "Sophie Marchand",
+    "role": "Conseillere clientele particuliers",
+    "agency": "BNP Paribas Paris Opera",
+    "address": "16 boulevard des Italiens, 75002 Paris",
+    "phone": "+33 1 42 98 10 22",
+    "email": "sophie.marchand@bnpparibas.example",
+    "slots": "Rendez-vous possible du mardi au samedi matin, en agence ou en visio"
+  },
+  "A42": {
+    "advisor_id": "A42",
+    "name": "Karim Benali",
+    "role": "Conseiller clientele particuliers",
+    "agency": "BNP Paribas Lyon Part-Dieu",
+    "address": "129 rue Servient, 69003 Lyon",
+    "phone": "+33 4 72 60 812 0",
+    "email": "karim.benali@bnpparibas.example",
+    "slots": "Rendez-vous possible du mardi au vendredi, en agence ou en visio"
+  },
+  "general": {
+    "name": "Service client BNP Paribas particuliers",
+    "phone": "3477 (service gratuit + prix appel)",
+    "hours": "du lundi au vendredi 8h-20h, samedi 9h-17h",
+    "emergency_card": "0 800 800 121 (opposition carte, 24h/24)"
+  }
+}
